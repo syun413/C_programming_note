@@ -12,4 +12,4 @@ Chapter9：函式
 Chapter10：指標  
 Chapter11：字串處理  
 Chapter12：結構與自訂資料型態  
-Chapter13：檔案  
+Chapter13：檔案處理  
