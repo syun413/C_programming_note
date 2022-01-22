@@ -8,9 +8,8 @@ Chapter5：選擇語句
 Chapter6：迴圈  
 Chapter7：資料型態  
 Chapter8：陣列  
-Chapter9：函式  
-Chapter10：程式結構  
-Chapter11：指標  
-Chapter12：字串處理  
-Chapter13：結構與自訂資料型態  
-Chapter14：檔案  
+Chapter9：函式    
+Chapter10：指標  
+Chapter11：字串處理  
+Chapter12：結構與自訂資料型態  
+Chapter13：檔案  
